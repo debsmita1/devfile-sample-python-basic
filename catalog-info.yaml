@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: devfile-sample-python-basic
+  annotations:
+    github.com/project-slug: debsmita1/devfile-sample-python-basic
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/debsmita1
